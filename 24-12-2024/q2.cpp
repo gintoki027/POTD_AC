@@ -5,11 +5,11 @@ public:
         int s = nums.size();
         for(int i=0;i<s;i++){
             if(nums[i]==0){
-                count1++;
+                count0++;
             }else if(nums[i]==2){
                 count2++;
             }else{
-                count0++;
+                count1++;
             }
         }
         int index = 0;
