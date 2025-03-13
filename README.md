@@ -2,6 +2,10 @@
 
 # Problem of the Day (POTD)  
 
+[![Last commit](https://img.shields.io/github/last-commit/gintoki027/POTD_AC?&logo=github)](https://github.com/gintoki027/POTD_AC)
+[![Size](https://img.shields.io/github/repo-size/gintoki027/POTD_AC?color=green)](https://github.com/gintoki027/REPOPOTD_ACSITORY)
+
+
 Welcome to the **Problem of the Day (POTD)** repository! This repository is dedicated to daily coding challenges provided by seniors from the **Application Club** to help sharpen our **Data Structures and Algorithms (DSA)** skills.    
 
 ## Objective  
